@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#49231D",
+			"titleBar.activeBackground": "#673029",
+			"titleBar.activeForeground": "#FDF9F9"
+		},
+		"python.terminal.activateEnvInCurrentTerminal": true
+	}
+}
